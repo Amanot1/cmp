@@ -238,3 +238,11 @@ body {
     box-shadow: 0 4px 4px 0 #00000025;
     border-radius: 16px;
 }
+#Footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo img{
+    margin-left: 10px;
+}
